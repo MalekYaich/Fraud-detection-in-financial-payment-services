@@ -1,12 +1,12 @@
 # Fraud detection in financial payment services
 
-Project Overview:
+### Project Overview:
 
 The goal of this project is to detect fraud related to financial payments using machine learning. To achieve this, we need to create a machine learning model 
 that can classify payments as either fraudulent or non-fraudulent. To build this model, we require a database containing information about financial fraud, which
 will help us understand the types of transactions that lead to fraud.
 
-The project involves the following steps:
+### The project involves the following steps:
 
 * Data Collection: The dataset used for this project is sourced from Kaggle,. This dataset will serve as the foundation for training and evaluating the machine learning model.
 * Data Preprocessing: The imported dataset is preprocessed to handle missing values, outliers, and any necessary feature engineering. This step ensures that the data is in a suitable format for training the machine learning models.
